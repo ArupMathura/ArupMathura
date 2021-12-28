@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ArupMathura/ArupMathura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
 
-- :technologist: I am passionate about web development, Machine Learning, Mobile Development and I enjoy learning new things.
+- :technologist: I am passionate about web development, Machine Learning, Django Development and I enjoy learning new things.
 
 - ❤️ I love open source. And Currently I am learning about how to comtribute in open source.
 
