@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
 - 🌱 I’m currently learning MERN stack.
 
-- :dart: 2021 Goal is to be a FULL-STACK DEVELOPER.
+- :dart: 2022 Goal is to be a FULL-STACK DEVELOPER.
 
 - :technologist: And try to participate in more hackathon.
 
