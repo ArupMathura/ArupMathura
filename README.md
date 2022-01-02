@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 
 ## About Me 🚀
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
+- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from INDIA.
 
 - :technologist: I am passionate about web development, Machine Learning, Django Development and I enjoy learning new things.
 
-- ❤️ I love web development. And Currently I am learning MERN stack.
+- ❤️ I love to do web development.
+ 
+- 🌱 I’m currently learning MERN stack.
 
-- :dart: 2021 Goal is to contribute more in open source.
+- :dart: 2021 Goal is to be a FULL-STACK DEVELOPER.
+
 - :technologist: And try to participate in more hackathon.
 
 
