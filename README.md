@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - :technologist: I am passionate about web development, Machine Learning, Django Development and I enjoy learning new things.
 
-- ❤️ I love open source. And Currently I am learning about how to comtribute in open source.
+- ❤️ I love web development. And Currently I am learning MERN stack.
 
 - :dart: 2021 Goal is to contribute more in open source.
 - :technologist: And try to participate in more hackathon.
