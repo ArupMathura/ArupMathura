@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 🚀
+- 🔭 I’m currently working on Spring Boot.
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from INDIA.
+- :man_student: I had done MCA in 2022 at Haldia Institute of technology.
 
 - :technologist: I am passionate about web development, Machine Learning, Django Development and I enjoy learning new things.
 
