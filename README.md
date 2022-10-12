@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ❤️ I love to do web development.
  
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning Java, Spring, Spring Boot, Microservices.
 
 - :dart: 2022 Goal is to be a FULL-STACK DEVELOPER.
 
