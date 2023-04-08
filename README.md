@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 🚀
-- 🔭 I’m currently working on Spring Boot.
+- 🔭 I’m currently working on Spring Boot and Microservices.
 
 - :man_student: I had done MCA in 2022 at Haldia Institute of technology.
 
